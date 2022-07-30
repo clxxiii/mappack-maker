@@ -1,0 +1,17 @@
+{
+  "name": "mappack-maker",
+  "version": "1.0.0",
+  "description": "1. Clone repo, install dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "download": "^8.0.0",
+    "zip-a-folder": "^1.1.5"
+  }
+}
