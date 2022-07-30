@@ -7,8 +7,7 @@ git clone https://github.com/clxxiii/mappack-maker
 npm install
 ```
 
-2. Add a .txt file that contains a list of map IDs, see example.txt
-   ![example](https://i.imgur.com/ImhoKeF.png)
+2. Add a .txt file that contains a list of map IDs, see [example.txt](https://github.com/clxxiii/mappack-maker/blob/main/in/example.txt)
 3. Run the command
 
 ```
